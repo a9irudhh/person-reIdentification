@@ -1,0 +1,1 @@
+Add labeled images of size 160*160 pixels
